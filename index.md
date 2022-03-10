@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## Azure vs. AWS: What is the Difference Between AWS and Azure [](https://www.youtube.com/watch?v=xCabPpcq8Ac)
+## What is the Difference Between AWS and Azure [](https://www.youtube.com/watch?v=xCabPpcq8Ac)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
