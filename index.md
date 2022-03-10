@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## The Difference Between two giants in the cloud: AWS and Azure [](https://www.youtube.com/watch?v=xCabPpcq8Ac)
+## The Difference Between Two Giants in the Cloud: AWS and Azure [](https://www.youtube.com/watch?v=xCabPpcq8Ac)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -21,6 +21,10 @@ Today, AWS and Microsoft Azure offer hundreds of competitive cloud solutions enc
 Thankfully, products and services from the Amazon Web Services Platform and Microsoft Azure Platform are mostly grouped under the same category headings. To help you accelerate and simplify the decision-making process, we’ve taken the time to compare the most commonly sought-after cloud products and services across several business-critical categories.
 
 As experts in delivering our clients market-leading WordPress hosting solutions, we have first-hand experience using these types of cloud services. On top of discussing building a cloud deployment, we’ll also take a detailed look at the key considerations that accompany these services, like customer support, global infrastructure, billing, and pricing structures.
+
+
+![ ](https://docs.microsoft.com/en-us/azure/architecture/browse/thumbs/interactive-azure-data-explorer.png) 
+
 
 ## Compute Features
 Compute resource is the foundation on which you’d build your cloud deployment. The decisions you make in this category will directly influence the speed and performance of your platform. Including the systems you run on it and the services your employees utilize. So, you must choose the right configuration for your business needs.
@@ -59,7 +63,7 @@ When it comes to VM access for Windows machines, Amazon EC2 and Azure support ac
 
 Where they do differ slightly is in the provision of additional access pathways. Azure offers additional access to Windows machines via Microsoft PowerShell, while Amazon EC2 provides additional Windows machine access through its IPv6 address and Session Manager.
 
-Virtual Machine Instance Types
+## Virtual Machine Instance Types
 To simplify and accelerate the process of deploying your VM setup, Azure and Amazon EC2 both offer a wide range of predefined instances.
 
 Each VM instance type is configured with a specific virtual CPU, RAM, and network components. Whether opting for Microsoft or Amazon, there are hundreds of virtual machine types available to choose from.
@@ -88,7 +92,7 @@ AWS Auto Scaling scales instances in groups. Each group has a launch configurati
 Azure Autoscale has a VM scale set in which instances are scaled. Instances are created or removed inline with your chosen scaling plan, referred to as an autoscaling policy.
 Between the platforms, there are three autoscaling plans available: manual, dynamic, and scheduled. Amazon Auto Scaling supports all three, while Azure Autoscale only supports dynamic and scheduled autoscaling. Each plan can be defined as follows:
 
-Manual: You can manually instruct the creation and removal of instances.
+## Manual: You can manually instruct the creation and removal of instances.
 Scheduled: Instances can be scaled up or down based on a predefined schedule.
 Dynamic: You can create policies to scale instances based on specific metrics such as CPU utilization or message queue length.
 Temporary Virtual Machine Instances
@@ -101,7 +105,7 @@ Low priority jobs that are not time-sensitive
 Workloads that benefit from increased compute power when available, such as for rendering video
 Both Amazon and Microsoft cloud platforms support temporary instances with similar naming conventions. The AWS service for temporary instances is Spot Instances, while the Azure service is Spot Virtual Machines (Spot VMs).
 
-Both Azure and AWS temporary machines share a set of features that include:
+## Both Azure and AWS temporary machines share a set of features that include:
 
 The ability to control temporary instances when they are running
 Limiting the instance types and machine images available, compared with on-demand instances
@@ -112,14 +116,6 @@ Temporary instances on AWS or Azure are available at a discounted rate of up to 
 Comparing VM machine performance between Azure and AWS is no easy task. We can’t simply declare that one of these cloud providers is better than the other. There are hundreds of comparable VM instances available between AWS and Azure, with the performance scale tipping one of two ways, depending on the comparison.
 
 A recent study from Cockroach Labs compared AWS vs Azure vs GCP CPU performance across a range of single-core and 16-core VMs. GCP came out on top in the single-core category, with performance 10% higher than AWS, with Azure coming in last. When comparing 16-core VMs, AWS came out on top with the fastest iterations per second. GCP was second, and Azure took last again.
-
-
-## 
-
-
-![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
-
-## 
 
 
 ## 
