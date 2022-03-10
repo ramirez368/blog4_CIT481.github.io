@@ -118,9 +118,6 @@ Comparing VM machine performance between Azure and AWS is no easy task. We canâ€
 A recent study from Cockroach Labs compared AWS vs Azure vs GCP CPU performance across a range of single-core and 16-core VMs. GCP came out on top in the single-core category, with performance 10% higher than AWS, with Azure coming in last. When comparing 16-core VMs, AWS came out on top with the fastest iterations per second. GCP was second, and Azure took last again.
 
 
-## 
-
-
 ```
 Thank you readers, and wait for next week blog
 For Contact e-mail me at ramirez368@hotmail.com
