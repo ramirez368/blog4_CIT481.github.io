@@ -13,7 +13,7 @@ Azure is an open source and flexible cloud platform which helps in development, 
 ## What is Aws?
 Amazon Web Services (AWS) is widely used secure cloud services platform, offering computing power, content delivery, database storage, and other functionality to help businesses scale and grow.
 
-![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
+![](https://docs.microsoft.com/en-us/azure/architecture/browse/thumbs/interactive-azure-data-explorer.png) 
 
 ## 
 
