@@ -3,25 +3,29 @@ layout: default
 ---
 
 
-## [The Wide World of Internet of Things](https://www.youtube.com/watch?v=LlhmzVL5bm8)
+## Azure vs. AWS: What is the Difference Between AWS and Azure [](https://www.youtube.com/watch?v=xCabPpcq8Ac)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## 
+## What is Azure?
+Azure is an open source and flexible cloud platform which helps in development, service hosting, service management, and data storage. The Azure cloud computing tool hosts web applications over the internet with the help of Microsoft data centers.
+
+## What is Aws?
+Amazon Web Services (AWS) is widely used secure cloud services platform, offering computing power, content delivery, database storage, and other functionality to help businesses scale and grow.
 
 ![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
 
-## 5G to Make Headway
+## 
 
 
 ![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
 
-## Enterprises Seek to Eliminate Latency From IoT Networks
+## 
 
 
 ![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
 
-## Consumer to Embrace Smart Security Devices
+## 
 
 
 ```
